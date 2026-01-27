@@ -24,5 +24,7 @@ The data flows through three distinct layers:
 ## Important notes!
 
 1. This project is a simplified version of my previous PCOS pipeline in SnowFlake. The SnowFlake project, due to a series of unfortunate circumstances, has been lost. I am reacreating it in Databricks, both to learn Databricks and to revise what i learned from the earlier project.
+2. The dataset used: https://www.kaggle.com/datasets/samikshadalvi/pcos-diagnosis-dataset is to perfect. The pipeline itself is very simple, due to not many changes needing to be made to the original data, will use more varied and "unclean" data in future projects.
+3. This project is still ONGONG, will work on it whenever i have time
 
-2. The dataset used: https://www.kaggle.com/datasets/samikshadalvi/pcos-diagnosis-dataset is to perfect. The pipeline itself is very simple, due to not many changes needing to be made to the original data, will use more varied and "unclean" data in future projects. 
+
